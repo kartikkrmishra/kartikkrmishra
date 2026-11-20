@@ -7,7 +7,6 @@ A passionate software developer focused on building responsive web applications,
 ### 🚀 Featured Projects
 
 - **[Glam Studio](https://github.com/kartikkrmishra/GlamStudio)** - Beauty salon & appointment booking web platform.  
-  👉 [Live Demo](https://kartikkrmishra.github.io/GlamStudio/)
 - **[Foodies](https://github.com/kartikkrmishra/Foodies)** - Modern food discovery and ordering web interface.
 - **[Traffic Light Simulator](https://github.com/kartikkrmishra/traffic-light-simulator)** - Interactive state-based traffic signal simulation.
 - **[SSL Guard](https://github.com/kartikkrmishra/sslguard)** - SSL certificate analysis and validation utility.
